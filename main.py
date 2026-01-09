@@ -16,7 +16,7 @@ except ImportError:
         return "Backend file missing!"
 
 # --- 2. CONFIGURATION ---
-TELEGRAM_BOT_TOKEN = "8510643518:AAGPaZHhNk-w5jUPmLzKVFq3ayI7GkDvNos"
+TELEGRAM_BOT_TOKEN = ""
 
 # --- 3. HELPER: TYPING INDICATOR ---
 async def send_typing_indicator(context, chat_id, stop_event):
