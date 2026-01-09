@@ -1,0 +1,12 @@
+pandas
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+langdetect
+chromadb
+fastapi
+uvicorn
+python-telegram-bot[ext]
